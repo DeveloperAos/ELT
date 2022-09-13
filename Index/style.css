@@ -1,0 +1,30 @@
+h4{
+    color:rgb(0, 26, 255)
+}
+
+h3{
+    color:rgba(37, 24, 226, 0.986)
+}
+
+hr{
+    color:rgba(98, 184, 155, 0.877);
+    border-width: 11px;
+}
+
+.Envios{
+    color:rgba(9, 42, 230, 0.932);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:x-large ;
+}
+
+
+.tru{
+    color:hwb(46 6% 0%);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:x-large ;
+    text-decoration-style: solid;
+}
+
+body{
+    background-color:rgb(199, 199, 199)  ;
+}
